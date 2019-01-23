@@ -4,3 +4,4 @@ Je loopt langs computereiland, de trap en de allersloomste liften in Nederland.
 DOWN  7
 EAST  8
 WEST  3
+SOUTH 9
