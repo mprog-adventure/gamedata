@@ -1,0 +1,8 @@
+De centrale gang
+Dit is een hele lange gang. Er is zowel links als rechts een deur.
+----
+WEST 404
+EAST 406
+NORTH 407
+SOUTH 401
+

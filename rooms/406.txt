@@ -1,0 +1,7 @@
+Bash Star controlekamer
+Er is in de controlekamer een feestje aan de gang. Een aantal TA's zijn aan het beerpongen, maar ze zijn alle pingpongballen kwijt.
+----
+UP 414/BLASTER
+OUT 405
+WEST 405
+

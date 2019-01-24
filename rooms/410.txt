@@ -1,0 +1,7 @@
+Afvalverwerkingskamer
+Je wordt wakker in een kamer met allemaal junk code en comments. Dit is waar code terecht komt als je het verwijdert.
+----
+OUT 411
+OUT/CHAT 413
+
+

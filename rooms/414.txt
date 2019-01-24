@@ -1,0 +1,6 @@
+Bash Star controlekamer
+Je bent de held van het feest met jouw geimproviseerde pingpongbal van de blaster. Je krijgt een keycard aangereikt door Grand Moff Quinten.
+----
+OUT 405
+WEST 405
+

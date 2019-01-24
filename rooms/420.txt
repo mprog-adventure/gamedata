@@ -1,0 +1,8 @@
+Cloud City (Bespin)
+Je bent aangekomen in Cloud city. Je wordt hartelijk begroet door Lando wijst je graag rond. "ten noorden is de carbonite chamber, maar als je zin hebt in thee dan is hier ten westen de dinerkamer."
+-----
+NORTH 419
+WEST 418
+SOUTH 403
+
+

@@ -1,0 +1,9 @@
+Bash star hangar
+Je komt aan in de hangar van de Bash star. De massieve hal herbergt een aantal PyFighters, maar de meeste zijn uit voor een missie. Ten noorden is de deur naar de hoofdgang. Achter je staat de Mil&&ium Falcon. In de verte hoor je een klein zwart robotje een geluidje maken "Xyzzy..."
+----
+NORTH 405
+IN 402
+SOUTH 402
+XYZZY 415
+XYZZY/CHAT 421
+
