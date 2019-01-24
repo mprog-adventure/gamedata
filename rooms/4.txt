@@ -1,4 +1,5 @@
 Kantine
-Under construction
+Je staat in de kantine, ome een of andere reden verkopen ze hier slangen
 -----
-FORCED  3
+EAST 108
+EAST/Koffiekaart 109

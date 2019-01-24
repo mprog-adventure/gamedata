@@ -1,4 +1,4 @@
 The Cubes of Silence
 The place where nobody reserves a room, but sits there anyway
 -----
-WEST 103
+WEST 7
