@@ -3,3 +3,4 @@ Je bent bij de balie.
 -----
 SOUTH 7
 NORTH 13
+WEST 572
