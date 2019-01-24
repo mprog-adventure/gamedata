@@ -3,5 +3,3 @@ Je wordt wakker in een kamer met allemaal junk code en comments. Dit is waar cod
 ----
 OUT 411
 OUT/CHAT 413
-
-
