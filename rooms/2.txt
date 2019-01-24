@@ -3,3 +3,4 @@ Een balkon vol hard-werkende studenten.
 -----
 NORTH 1
 SOUTH 3
+WEST 200

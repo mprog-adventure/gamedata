@@ -1,0 +1,6 @@
+buiten
+hier kan je naar de bushalte of het grasveld lopen.
+-----
+SOUTH 201
+EAST 205
+NORTH 206

@@ -1,0 +1,5 @@
+bushalte
+hier kan je bus 40 pakken of terug naar buiten.
+-----
+SOUTH 204
+WEST 207/ov

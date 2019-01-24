@@ -1,0 +1,5 @@
+wachtrij
+hier sta je in de rij voor het stellen van een vraag, je hebt tim nodig om je ov op te laden.
+-----
+DOWN 213/tim
+WEST 201

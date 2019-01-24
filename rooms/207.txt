@@ -1,0 +1,6 @@
+bus40
+neem de bus naar halte spar of halte science park.
+-----
+EAST 206
+SOUTH 209/ovvol
+UP 211/ovvol
