@@ -1,7 +1,0 @@
-A1.16
-Je staat in A1.16 niks te doen.. Niet erg productief! Gelukkig is het pas 9:45, tijd zat om Science Park te verkennen voor de deadline. Wie weet, misschien kom je wel iemand tegen die je kan helpen om je javascript voor je te schrijven. Op het whiteboard staat heel mysterieus 'XYZZY' geschreven.
------
-OUT   2
-SOUTH 2
-XYZZY 401
-IJSKAST -1
