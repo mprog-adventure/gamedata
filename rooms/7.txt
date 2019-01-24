@@ -2,3 +2,4 @@ Zwarte banken
 Je ziet Mendel raar chagrijnig naar de koffiemachine kijken, omdat hij voor de zoveelste keer weer moet opwarmen als Mendel koffie wilt. Hij kijkt voorderest heel verliefd naar de bergtrol.
 -----
 NORTH 8
+SOUTH 111

@@ -1,6 +1,4 @@
-A1.16
-Je staat in A1.16 niks te doen.. Niet erg productief! Gelukkig is het pas 9:45, tijd zat om Science Park te verkennen voor de deadline. Wie weet, misschien kom je wel iemand tegen die je kan helpen om je javascript voor je te schrijven.
+The Beginning
+You greet the person, it seems to be Quinten. He tries to explain the "Adventure" task to you...
 -----
-OUT   2
-SOUTH 2
-IJSKAST -1
+FORCED 106
