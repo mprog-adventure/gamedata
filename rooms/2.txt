@@ -1,6 +1,5 @@
 Balkon
 Een balkon vol hard-werkende studenten.
 -----
-NORTH 4
-SOUTH 5
-EAST 6
+NORTH 1
+SOUTH 3
