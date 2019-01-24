@@ -2,4 +2,3 @@ De centrale gang
 Je probeert door de grote deur te gaan, maar een RFID lezer aan de zijkant van de deur bliept rood.
 ----
 FORCED 408
-
