@@ -1,0 +1,4 @@
+IJSKAST
+Dit is de geheime ijskast van de minor. Je stapt erin telt tot drie en dan...
+-----
+OUT 1
