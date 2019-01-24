@@ -1,0 +1,6 @@
+Building E
+You found the place where all chemists hide, but first you have to open the door
+-----
+OPEN 578/COLLEGEKAART
+OPEN 579
+NORTH 100

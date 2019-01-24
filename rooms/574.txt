@@ -1,0 +1,5 @@
+Outside in the fietsenstalling
+It is cold outside, there are bikes parked and you see a red bike.
+-----
+BIKE 100/KEYS
+SOUTH 572
