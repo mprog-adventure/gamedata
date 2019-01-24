@@ -1,5 +1,4 @@
-The Sacraficial Altar
-A Being of Zeroes and Ones stand before you...
-----
-NORTH 7
-TALK 112
+...
+You do not possess, the three sacrificial items
+-----
+FORCED 7

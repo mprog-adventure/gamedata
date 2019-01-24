@@ -1,5 +1,5 @@
 The Sacraficial Altar
 A Being of Zeroes and Ones stand before you...
-----
+-----
 NORTH 7
 TALK 112

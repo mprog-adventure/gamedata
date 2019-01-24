@@ -1,5 +1,4 @@
-The Sacraficial Altar
-A Being of Zeroes and Ones stand before you...
-----
-NORTH 7
-TALK 112
+The Items are sacrificed
+YOU HAVE APPEASED THE SPIRIT OF PROGRAMMING!. I SHALL GRANT YOU THE CERTIFICATE OF MPROG.
+-----
+FORCED 118
