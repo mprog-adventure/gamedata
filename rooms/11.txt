@@ -1,0 +1,5 @@
+Verdieping5
+Wow, hier is het helemaal leeg en koud. Ten westen van je zie je een deur.
+-----
+BACK 9
+WEST 12

@@ -1,0 +1,5 @@
+Kantine
+Je staat in de kantine, ome een of andere reden verkopen ze hier slangen
+-----
+EAST 108
+EAST/Koffiekaart 109

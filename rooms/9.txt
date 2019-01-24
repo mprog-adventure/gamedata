@@ -1,0 +1,6 @@
+Lift
+Je staat bij de lift. Kies de verdieping waar je naar toe wilt.
+-----
+OUT 3
+UP  11
+TOP 110
