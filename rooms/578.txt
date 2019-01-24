@@ -1,0 +1,6 @@
+Labs
+It smells funky in here and there is smoke coming out of a closet. Chemists are running around with their labcoats on fire and are screaming for help. Are you going to flee or get closer to see what happened?
+-----
+FLEE 575
+CLOSER 580/ANTIFIRE
+CLOSER 0

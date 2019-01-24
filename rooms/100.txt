@@ -2,3 +2,4 @@ Building F
 The story had to start somewhere right?
 -----
 WEST 101
+EAST 575
