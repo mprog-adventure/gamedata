@@ -2,7 +2,7 @@ Overloop
 Je staat op de overloop. Er zijn zoveel mogelijkheden, kies snel. Het is hier namelijk bizar druk!
 -----
 DOWN  4
-UP  9
+UP  9/COLLEGEKAART
 WEST  5
 IN  6
 SOUTH 7
