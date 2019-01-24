@@ -1,0 +1,4 @@
+kamer
+random kamer
+-----
+WEST 200

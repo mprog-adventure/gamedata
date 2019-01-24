@@ -1,0 +1,5 @@
+Trap
+Een trap naar de kantine of kamer
+-----
+DOWN 201
+EAST 202

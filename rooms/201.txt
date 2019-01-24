@@ -1,0 +1,6 @@
+Kantine
+Kan je eten kopen, koffie halen en zitten.
+-----
+EAST 203/koffiespaarkaart
+UP 200
+NORTH 204

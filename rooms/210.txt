@@ -1,0 +1,6 @@
+brainwave
+hier ligt patat,zonder patat kan je niet naar je winterslaap, maar ook terug naar de trap.
+-----
+EAST 210
+DOWN 212
+UP 200
