@@ -1,0 +1,5 @@
+Computereiland
+Je komt Martijn tegen en je ziet Quinten achterin staan. Je mag pas naar hem toe als je het volgende raadsel oplost: "Ik ben wat ik ben, maar als je weet wat ik ben, ben ik er niet meer."
+-----
+GEHEIM  10
+EAST  3
