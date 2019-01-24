@@ -4,5 +4,3 @@ Je bent aangekomen in Cloud city. Je wordt hartelijk begroet door Lando wijst je
 NORTH 419
 WEST 418
 SOUTH 403
-
-
