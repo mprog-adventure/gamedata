@@ -4,4 +4,4 @@ Een lokaal vol minder hardwerkende studenten.
 OUT 2
 NORTH 702
 DOUG 702
-EAST 703
+EAST 714
