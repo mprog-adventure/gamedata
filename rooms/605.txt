@@ -1,0 +1,4 @@
+PUT
+Je ziet de opening van de put en een trap die daartoe leidt.
+-----
+UP	604

@@ -1,0 +1,4 @@
+SCHIPHOL
+Je pakt de bus naar Schiphol en pakt het eerste de beste vliegtuig naar Hawaii en besluit dat programmeren toch maar niet iets voor jou is.
+-----
+FAIL	0
