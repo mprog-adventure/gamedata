@@ -1,0 +1,8 @@
+FLIP
+Flip zit het nieuws te lezen met een filmpje van Doug Lloyd op de achtergrond. Op zijn telefoon kijkt hij intussen naar de insta van Zamyla.
+-----
+DOUG 709
+IN 709
+ZAMYLA 711
+NIEUWS 710
+OUT 702

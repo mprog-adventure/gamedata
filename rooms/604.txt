@@ -1,7 +1,4 @@
 PLEIN
-
 Je staat op het plein van het sciencepark. Je ziet een emmertje water staan. 
-
 -----
-TAKE	emmer water
 BACK	606

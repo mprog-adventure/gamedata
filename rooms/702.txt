@@ -1,0 +1,9 @@
+Tafel 1010
+De tafel met koffiezetapparaat en legends Ramon, Milena, Leon en Flip.
+-----
+KOFFIE 708
+KOFFIE 703/koffiepoeder
+MILENA 704
+LEON 705
+RAMON 706
+FLIP 707

@@ -1,0 +1,7 @@
+RAMON
+De legend Ramon zit naar een filmpje van Doug te kijken. Naast hem staat een bakje plant-based mealprep.
+-----
+DOUG 709
+IN 709
+OUT 702
+MEALPREP 710
