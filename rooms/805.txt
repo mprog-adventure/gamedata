@@ -1,0 +1,5 @@
+Lift
+Druk op een knopje om naar boven of beneden te gaan.
+-----
+BOVEN 820
+BENEDEN 807

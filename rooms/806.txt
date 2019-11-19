@@ -1,0 +1,6 @@
+Trap
+Je staat boven aan de trap je kan nu naar beneden lopen.
+-----
+TERUG 804
+BENEDEN 807/KARIM
+BENEDEN 801

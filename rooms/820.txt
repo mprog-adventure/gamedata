@@ -1,0 +1,4 @@
+lift
+De lift maakt een piepend geluid en zakt naar beneden je komt in de kelder.
+-----
+FORCED 807
