@@ -1,4 +1,7 @@
+GANG
 Je staat op de gang. Helaas mag je je spullen niet meer ophalen in kamer 1.16. 
 
 Al je inventory wordt gedropt.
-OUTSIDE 604
+
+-----
+OUTSIDE	604

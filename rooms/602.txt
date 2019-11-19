@@ -1,3 +1,4 @@
+RIOOL
 Oh shit! Je bent doorgespoeld! Je ligt in het riool en schrikt van een rat.
 
 
@@ -14,6 +15,6 @@ Oh shit! Je bent doorgespoeld! Je ligt in het riool en schrikt van een rat.
      	 ((("`             (((---~"`         //
                                             ((________________
                                             `----""""~~~~^^^```
-
-SCREAM: 603
-RUN: 604
+-----
+SCREAM	603
+RUN	604
