@@ -1,6 +1,5 @@
 WC
 Je zit op de wc. Het brandalarm gaat af. Snel wegwezen hier!! 
-
  			 \\\\\\\\
                           \\\\\\\\\\
                            \-- \\\\\\
@@ -25,7 +24,6 @@ Je zit op de wc. Het brandalarm gaat af. Snel wegwezen hier!!
             ^^^^^^____.._( )_)\    \     \  \
                  (    \\\''' | |    )     \  \ pils
 __________________\______.___|_|__(________|__)_____
-
 -----
 OUT 	601
 DOWN 	602
