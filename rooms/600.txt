@@ -3,6 +3,3 @@ Je zit op de wc. Het brandalarm gaat af. Snel wegwezen hier!!
 -----
 OUT 	601
 DOWN 	602
-
-			  
-                         
