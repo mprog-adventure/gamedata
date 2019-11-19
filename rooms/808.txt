@@ -1,0 +1,5 @@
+Bos
+Je staat onder een lantaarnpaal in de verte zie je een huisje en een bankje.
+-----
+HUISJE 809
+BANKJE 811
