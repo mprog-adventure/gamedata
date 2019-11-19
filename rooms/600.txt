@@ -1,5 +1,22 @@
 WC
 Je zit op de wc. Het brandalarm gaat af. Snel wegwezen hier!! 
+
+
+         	(\
+                 \\
+                  ))
+                 //
+          .-.   //  .-.
+         /   \-((=-/   \
+         \      \\     /
+          `( ____))_ )`
+          .-'   //  '-.
+         /     ((      \   
+        |       *       |  
+         \             /
+          \   |_w_|   /
+          _)  \ ` /  (_
+  	(((---'   '---)))
 -----
 OUT 	601
 DOWN 	602
