@@ -1,4 +1,4 @@
 Je ziet het enorme vuur voor je branden. Een emmer water zou nu handig zijn...
-
+-----
 THROW: 607
 RUN: 608
