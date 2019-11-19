@@ -1,0 +1,6 @@
+Marijn's mancave
+De lift zakt naar beneden, en wanneer de deuren opengaan kijk je uit over de mancave van Marijn. In het westen is een feestje gaande, en in het noorden is een trap naar beneden.
+-----
+WEST 901
+NORTH 902/LED
+NORTH 903

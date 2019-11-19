@@ -1,0 +1,9 @@
+Keuken
+Je loopt de trap af die nog glibberig is van al het bier dat de trap afdruipt. Gelukkig heb je goed licht en loop je er rustig vanaf. Beneden aangekomen zie je een keuken, die vooral word ingenomen door een gigantische koelkast. In het westen is een grote stalen deur. In het oosten leid een donkere gang verder naar beneden.
+-----
+FRIDGE 904
+EAST 905/LED
+EAST 906
+DOOR 907/KEY
+DOOR 908
+SOUTH 900
